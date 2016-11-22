@@ -1,1 +1,2 @@
 pygobject==3.22.0
+pylinter==*
